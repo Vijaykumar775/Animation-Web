@@ -145,7 +145,7 @@ html, body{
 #hero-right #image{
     width: 100%;
     height: 200px;
-    background-image: url(/img/IMG20231113135036.jpg);
+    background-image: url(IMG20231113135036.jpg);
     background-size: cover;
     margin-bottom: 30px;
     background-position: center;
